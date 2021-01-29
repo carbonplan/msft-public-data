@@ -1,7 +1,11 @@
 # Forest Inventory and Analysis
+
 Source: US Forest Service
-Location: https://www.fia.fs.fed.us/
+
+Source Location: https://www.fia.fs.fed.us/
+
 Domain: Continental US, 1928-2018
+
 Resolution: plot-level (irregular polygon)
 
 Data on status and trends in forest location, health, growth, mortality, and production.

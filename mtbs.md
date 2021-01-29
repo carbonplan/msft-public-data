@@ -1,7 +1,10 @@
 # Monitoring Trends in Burn Severity (MTBS) Mosiacs
 Source: US Forest Service
-Location: https://www.mtbs.gov/
+
+Source location: https://www.mtbs.gov/
+
 Domain: CONUS and Alaska, 1984-2018
+
 Resolution: 30 m
 
 Annual burn severity mosaics for the continental United States and Alaska.
