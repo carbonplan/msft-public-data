@@ -12,7 +12,6 @@ Summary: TerraClimate is a dataset of monthly climate and climatic water balance
 ## Storage resources
 Data are stored in blobs in the West US data center, in the following blob container:
 
-https://carbonplan.blob.core.windows.net/carbonplan-data/raw/terraclimate
+https://carbonplan.blob.core.windows.net/carbonplan-data/raw/terraclimate/4000m/raster.zarr
 
-Within that container, data are organized according to:
-
+Data is stored in zarr format.
