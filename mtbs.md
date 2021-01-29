@@ -1,4 +1,8 @@
 # Monitoring Trends in Burn Severity (MTBS) Mosiacs
+Source: US Forest Service
+Location: https://www.mtbs.gov/
+Domain: CONUS and Alaska, 1984-2018
+Resolution: 30 m
 
 Annual burn severity mosaics for the continental United States and Alaska.
 
@@ -21,4 +25,4 @@ Within that container, data are organized according to:
 
 Images are stored in cloud optimized GeoTIFF format. 
 
-A complete Python example of accessing and plotting a MTBS data is available in the notebook provided under “data access”.
+A complete Python example of accessing and plotting MTBS data is available in the notebook provided under “data access”.
