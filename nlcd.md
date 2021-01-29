@@ -1,7 +1,7 @@
 #### National Land Cover Databse (NLCD)
 Source: U.S. Geological Survey (USGS)
 
-Location: https://www.mrlc.gov/
+Source Location: https://www.mrlc.gov/
 
 Domain: Continental US, 2001-2016
 
