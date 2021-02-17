@@ -3,7 +3,7 @@ Source: Climatology Lab, University of California, Merced
 
 Location: http://www.climatologylab.org
 
-Domain: Continental US, 1958-2019
+Domain: Global 1/20th-deg, 1958-2019
 
 Resolution: 4000m, monthly
 
